@@ -19,3 +19,5 @@ public void AdjustCameraAngle()
      camera.transform.position = vecMid - ((distance1 + distance2) * camera.transform.forward);
 }
 ```
+Result : 
+![alt text](https://i.ibb.co/wNQfL0L/ref.png)
