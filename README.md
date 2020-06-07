@@ -1,6 +1,6 @@
 # color-hole
 
-#Camera angle calculations
+# Adjust Camera Angle
 ![alt text](https://i.ibb.co/5BrtkWy/camera-angle-exp.png)
 ```
 public void AdjustCameraAngle()
@@ -19,5 +19,5 @@ public void AdjustCameraAngle()
      camera.transform.position = vecMid - ((distance1 + distance2) * camera.transform.forward);
 }
 ```
-Result : 
+# Result : 
 ![alt text](https://i.ibb.co/wNQfL0L/ref.png)
