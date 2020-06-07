@@ -19,7 +19,6 @@ public void AdjustCameraAngle()
      camera.transform.position = vecMid - ((distance1 + distance2) * camera.transform.forward);
 }
 ```
-Result:
-     - fits different screen sizes
+Result: fits different screen sizes!
      
 ![alt text](https://i.ibb.co/8PsqrDr/camera-angle-result.png)
