@@ -15,10 +15,10 @@ You can find the apk.
 
 ![alt text](https://i.ibb.co/rMFmFz1/dynamicbatch.png)
 ## Generic Game
-* Can and add new shapes
-* Can easly create limitless boards like bonus levels.
+* New shape can be added easily
+* Limitless boards like bonus levels can be implemented easily.
 ## All objects use same texture
-* Can easly adjust colors with changing offset of materials.
+* Adjust colors by changing offset
 ## Adjusted camera angle
 ![alt text](https://i.ibb.co/5BrtkWy/camera-angle-exp.png)
 ```
