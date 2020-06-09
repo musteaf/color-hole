@@ -16,7 +16,7 @@ You can find the apk.
 
 ![alt text](https://i.ibb.co/rMFmFz1/dynamicbatch.png)
 
-## Without Updating Mesh Rendered Just Updated Collider's Mesh
+## Without Updating Mesh Rendered! Just Updated Collider's Mesh.
 ![alt text](https://i.ibb.co/FHwwf1c/collider.png)
 
 ## With More Than 30 Classes That Made The Game More Generic
