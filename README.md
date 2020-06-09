@@ -7,6 +7,7 @@ You can find the apk.
 - 1 for board
 - 1 for canvas
 - 1 for text
+
 some screen sizes it rising to 6 but it is about the second board so we can extend the way between first and second board to preserve batchsize.
 ![alt text](https://i.ibb.co/rMFmFz1/dynamicbatch.png)
 ## Similar Physics with Original Game
