@@ -7,7 +7,7 @@ You can find the apk.
 - One for board
 - One for canvas
 - One for text <br/><br/>
-* Some screen sizes it rising to 6 but it is about the second board so we can extend the way between first and second board to preserve batchsize.
+* Some screen sizes it rising to 6 because the camera angle see the second board. Thus we can extend the way between first and second board to preserve batchsize.
 <br/>
 
 ![alt text](https://i.ibb.co/rMFmFz1/dynamicbatch.png)
