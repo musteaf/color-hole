@@ -16,8 +16,8 @@ You can find the apk.
 
 ![alt text](https://i.ibb.co/rMFmFz1/dynamicbatch.png)
 
-## Without Updating Mesh Rendered! Just Updated Collider's Mesh. <br/>
-![alt text](https://i.ibb.co/LNttqyB/collider.png)
+## Without Updating Mesh Rendered! Just Updated Collider's Mesh.
+![alt text](https://i.hizliresim.com/kmTT9A.png)
 
 ## With More Than 30 Classes That Made The Game More Generic
 * New shape can be added easily
