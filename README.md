@@ -6,8 +6,8 @@ You can find the apk.
 - One for mask
 - One for board
 - One for canvas
-- One for text <br/>
-some screen sizes it rising to 6 but it is about the second board so we can extend the way between first and second board to preserve batchsize.
+- One for text <br/><br/>
+* Some screen sizes it rising to 6 but it is about the second board so we can extend the way between first and second board to preserve batchsize.
 <br/>
 
 ![alt text](https://i.ibb.co/rMFmFz1/dynamicbatch.png)
