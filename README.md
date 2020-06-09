@@ -1,20 +1,20 @@
 # color-hole
 That is a copy of the Color Hole game which produced in 5 days.
 You can find the apk.
-# Reduced batch size
- 1 for hole and shapes's material
- 1 for mask
- 1 for board
- 1 for canvas
- 1 for text
+## Reduced batch size
+1 for hole and shapes's material
+1 for mask
+1 for board
+1 for canvas
+1 for text
 some screen sizes it rising to 6 but it is about the second board so we can extend the way between first and second board to preserve batchsize.
 ![alt text](https://i.ibb.co/rMFmFz1/dynamicbatch.png)
-# Similar Physics with Original Game
-# Generic Game
+## Similar Physics with Original Game
+## Generic Game
 we can and add new shapes, also we can easly create limitless boards like bonus levels.
-# All objects use same texture
+## All objects use same texture
 we can easly adjust colors with changing offset of materials 
-# Adjusted camera angle
+## Adjusted camera angle
 ![alt text](https://i.ibb.co/5BrtkWy/camera-angle-exp.png)
 ```
         private Vector3 AdjustCameraAngle(Vector3 refPosition)
