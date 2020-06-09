@@ -1,5 +1,5 @@
 # color-hole
-That is a copy of the Color Hole game which produced in 5 days.
+That is a copy of the Color Hole game which produced in **5** days.
 You can find the apk.
 ## Similar Physics with Original Game
 ![alt text](https://im6.ezgif.com/tmp/ezgif-6-10771cfe469b.gif)
@@ -15,9 +15,14 @@ You can find the apk.
 <br/>
 
 ![alt text](https://i.ibb.co/rMFmFz1/dynamicbatch.png)
-## Generic Game
+
+## Without Updating Mesh Rendered Just Updated Collider's Mesh
+![alt text](https://i.ibb.co/FHwwf1c/collider.png)
+
+## With More Than 30 Classes That Made The Game More Generic
 * New shape can be added easily
 * Limitless boards like bonus levels can be implemented easily.
+
 ## All objects use same texture
 * Adjust colors by changing offset
 ## Adjusted camera angle
