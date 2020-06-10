@@ -2,9 +2,9 @@
 That is a copy of the Color Hole game which produced in **5** days.
 You can find the apk.
 ## Similar Physics with Original Game
-![alt text](https://im6.ezgif.com/tmp/ezgif-6-10771cfe469b.gif)
-![alt text](https://im6.ezgif.com/tmp/ezgif-6-80b66f8ea5e3.gif)
-![alt text](https://im6.ezgif.com/tmp/ezgif-6-fd6000b8681f.gif)
+![alt text](https://raw.githubusercontent.com/musteaf/color-hole/master/1.gif)
+![alt text](https://raw.githubusercontent.com/musteaf/color-hole/master/2.gif)
+![alt text](https://raw.githubusercontent.com/musteaf/color-hole/master/3.gif)
 ## Reduced batch size
 - One for hole and shapes's material
 - One for mask
